@@ -1,0 +1,7 @@
+{
+    "host": "http://localhost",
+    "port": 3000,
+    "prefix": "/api",
+    "connectString": "Data Source=Peak7Desktop;Initial Catalog=AdvWorksProducts;User Id=adventure_works;Password=adv2024;TrustServerCertificate=true;"
+  }
+  
